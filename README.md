@@ -1,1 +1,3 @@
 # Wlasne
+## Wymagania
+### Instalacja
